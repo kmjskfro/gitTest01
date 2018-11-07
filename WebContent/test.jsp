@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<%
+	String name = "강민지";
+%>
 </body>
 </html>
